@@ -1,0 +1,15 @@
+F:\RevealForge\RevealForge\obj\Debug\net6.0\RevealForge.csproj.AssemblyReference.cache
+F:\RevealForge\RevealForge\obj\Debug\net6.0\MyPluginInfo.cs
+F:\RevealForge\RevealForge\obj\Debug\net6.0\RevealForge.GeneratedMSBuildEditorConfig.editorconfig
+F:\RevealForge\RevealForge\obj\Debug\net6.0\RevealForge.AssemblyInfoInputs.cache
+F:\RevealForge\RevealForge\obj\Debug\net6.0\RevealForge.AssemblyInfo.cs
+F:\RevealForge\RevealForge\obj\Debug\net6.0\RevealForge.csproj.CoreCompileInputs.cache
+F:\RevealForge\RevealForge\bin\Debug\net6.0\RevealForge.deps.json
+F:\RevealForge\RevealForge\bin\Debug\net6.0\RevealForge.dll
+F:\RevealForge\RevealForge\bin\Debug\net6.0\RevealForge.pdb
+F:\RevealForge\RevealForge\bin\Debug\net6.0\VampireCommandFramework.dll
+F:\RevealForge\RevealForge\obj\Debug\net6.0\RevealFo.762DA5AE.Up2Date
+F:\RevealForge\RevealForge\obj\Debug\net6.0\RevealForge.dll
+F:\RevealForge\RevealForge\obj\Debug\net6.0\refint\RevealForge.dll
+F:\RevealForge\RevealForge\obj\Debug\net6.0\RevealForge.pdb
+F:\RevealForge\RevealForge\obj\Debug\net6.0\ref\RevealForge.dll
